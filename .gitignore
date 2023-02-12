@@ -2,3 +2,4 @@ venv/
 .idea/
 .vscode/
 .fleet/
+**/__pycache__/*
